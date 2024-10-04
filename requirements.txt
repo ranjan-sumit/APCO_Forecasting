@@ -1,0 +1,4 @@
+prophet
+streamlit
+plotly
+openpyxl  # Required for reading Excel files with pandas
